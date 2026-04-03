@@ -1,49 +1,24 @@
-<h1 align="center">Vinayak Tiwari</h1>
-<p align="center">
-  AI Developer • Android Builder • Focused on Real Products
-</p>
+# 💫 About Me:
+🔭 I'm currently working on YAAR — an AI voice & text chat companion with mood-based responses, STT & TTS<br>👯 I'm looking to collaborate on AI-powered apps, voice interfaces, or full-stack web projects<br>🤝 I'm looking for help with backend API integration & scaling AI applications<br>🌱 I'm currently learning React, Node.js & advanced Android development<br>💬 Ask me about OpenRouter AI, Google STT, Edge-TTS, Python, or building AI tools from scratch<br>⚡ Fun fact: I've represented my college in 8+ sports AND build AI assistants — teamwork on the court, teamwork in the code!<br>
 
-<p align="center">
-  Building simple, smart, and human-like digital experiences.
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vinayakt9639) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayak108_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayaktiwari18) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vinayakt9639) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayakt9639@gmail.com) 
 
-### 🚀 About
+# 💻 Tech Stack:
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vinayaktiwari18&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vinayaktiwari18&theme=maroongold&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaktiwari18&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I’m a BCA student passionate about building AI-powered applications and voice-first experiences.  
-I enjoy turning ideas into real, usable products with clean design and practical impact.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-### 🧠 What I Do
-
-- Build Android applications with real-world use cases  
-- Develop AI-based tools and assistants  
-- Work on voice interfaces and automation systems  
-- Focus on simplicity, usability, and performance  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vinayaktiwari18&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vinayaktiwari18&icon=3&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech
-
-`Java` `Kotlin` `Python` `JavaScript`  
-`Android` `Firebase` `Git` `Linux`
-
----
-
-### 🌱 Currently
-
-Exploring AI systems, improving product thinking, and building better user experiences.
-
----
-
-### 📫 Contact
-
-- Email: vinayakt9639@gmail.com  
-
----
-
-<p align="center">
-  <i>“Simple ideas. Built well.”</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
